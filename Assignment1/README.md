@@ -1,4 +1,4 @@
-==== Assignmnet1 ====
+==== Assignment1 ====
 
 Both the ENC and DEC modules have separate Makefiles to run them. The outputs are stored in a text file.  
 
